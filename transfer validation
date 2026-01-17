@@ -1,0 +1,1 @@
+This pull request adds additional validation to the transfer function to ensure safer balance handling. The update improves readability and aligns the logic with common ERC20 transfer patterns used in production contracts.
